@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Naiara 👋
 
-- 🌱 Estudando JavaScript
-- 😄 Pronouns: ela/dela
+- 🌱 Studying: JavaScript
+- 😄 Pronouns: she/her
 
 <div>
   <a href="https://github.com/naiaraxavier">
