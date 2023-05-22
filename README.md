@@ -1,4 +1,4 @@
-### Olá! Eu sou a Naiara 👋
+### Hi! I'm Naiara 👋
 
 - 🌱 Studying: JavaScript
 - 😄 Pronouns: she/her
