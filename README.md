@@ -4,9 +4,9 @@
 - 😄 Pronouns: she/her
 
 <div>
- // <a href="https://github.com/naiaraxavier">
- // <img heigt="180em" src="https://github-readme-stats.vercel.app/api?username=naiaraxavier&count_private=true&show_icons=true&theme=dracula" />
- // <img heigt="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiaraxavier&layout=compact&langs_count=16&theme=dracula" />
+ <a href="https://github.com/naiaraxavier">
+ <img heigt="180em" src="https://github-readme-stats.vercel.app/api?username=naiaraxavier&count_private=true&show_icons=true&theme=dracula" />
+ <img heigt="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiaraxavier&layout=compact&langs_count=16&theme=dracula" />
 </div>
 
 <div style="display: inline_block"><br>
