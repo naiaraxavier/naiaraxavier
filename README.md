@@ -11,7 +11,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/naiaraxavier/naiaraxavier/assets/my-gif.gif"  />
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
