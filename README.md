@@ -1,6 +1,6 @@
 
 <div align="left">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier&size=22&pause=1000&color=3A77A7&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Naiara+Martins+;Sou+Desenvolvedora+Full+Stack" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Courier&size=22&pause=1000&color=407BFF&width=435&lines=Ol%C3%A1!+Meu+nome+%C3%A9+Naiara+Martins+;Sou+Desenvolvedora+Full+Stack" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -10,7 +10,7 @@
   </a>
 </div>
 
-<img align="right" height="250" src="./image.png"  />
+<img align="right" height="300" src="./image.png"  />
 
 ##
 
